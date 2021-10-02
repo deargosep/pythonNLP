@@ -1,6 +1,6 @@
 -f https://download.pytorch.org/whl/torch_stable.html
 torch==1.9.1+cpu
-torchaudio==0.9.1+cpu
+torchaudio==0.9.1
 torchvision==0.10.1+cpu
 certifi==2021.5.30
 charset-normalizer==2.0.6
